@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.wrapper{
+  width: 900px;
+  margin: 100px auto;
+}
+.China-name{
+  display: inline-block;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+}
+ul {
+	display: inline-block;
+  vertical-align: top;
+  float: right;
+}
+li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+    text-align: left;
+}
+a {
+  text-decoration: none;
+  color: red;
+  font-family: monospace;
+  font-size: 20px;
+}
+#meright {
+	width: 570px;
+	height: 300px;
+	float: right;
+	text-align: left;
+	line-height: 2;
+}
+p a {
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: bold;
+    color: blue;
+}
+body {
+    background-image: url('images/JellyFish.jpg');
+    background-repeat: repeat-x;
+}
+.bio{
+  display: inline-block;
+  width: 500px;
+  vertical-align: top;
+  margin: 45px 0 0 20px;
+  font-size: 20px;
+  font-family: monospace;
+}
+footer p {
+  font-family: monospace;
+  font-size: 15px;
+  color: red;
+}
+footer {
+    margin: 0 0 0 55px;
+    width: 300px;
+}
